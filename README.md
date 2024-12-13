@@ -84,9 +84,6 @@ Luego, importa Ionic en los archivos necesarios.
 2. **Las imágenes no se cargan:**
    Asegúrate de que las imágenes estén en la carpeta `src/assets/imgs` y que las rutas sean relativas a esta ubicación.
 
-## Capturas de Pantalla
-
-Incluir capturas de pantalla para mostrar la interfaz y las funcionalidades del panel.
 
 ## Contribuciones
 
@@ -98,5 +95,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-Para preguntas o comentarios, contáctame en [tu_email@ejemplo.com].
+Para preguntas o comentarios, contáctame en freddyuj0@gmail.com
 
